@@ -1,0 +1,98 @@
+[
+  {
+    "addr": "0x2a18C9E82Fce85209300Fa2a0128B03aDbf8b211",
+    "chainId": 133,
+    "isContract": true,
+    "name": "RTOKEN_IMPLEMENTATION"
+  },
+  {
+    "addr": "0xa9F58940e1B3B594d770994bC4be396A2e274ebd",
+    "chainId": 133,
+    "isContract": true,
+    "name": "UNITROLLER"
+  },
+  {
+    "addr": "0x9F35661aE98bc9fff21D57575Cb72dB1e2a407e4",
+    "chainId": 133,
+    "isContract": true,
+    "name": "COMPTROLLER"
+  },
+  {
+    "addr": "0xBdD814542Fa279d4Ca65E5F7d8C37Df853A3008F",
+    "chainId": 133,
+    "isContract": true,
+    "name": "MRD_PROXY"
+  },
+  {
+    "addr": "0x360d54966f0C299f16948748887DB2121AA49906",
+    "chainId": 133,
+    "isContract": true,
+    "name": "MRD_IMPL"
+  },
+  {
+    "addr": "0xE6130a31b252F89e2B972a2304934C42FbD0fbb7",
+    "chainId": 133,
+    "isContract": true,
+    "name": "MRD_PROXY_ADMIN"
+  },
+  {
+    "addr": "0xE7A36CC7f4c973661a95Ce932288978325115605",
+    "chainId": 133,
+    "isContract": true,
+    "name": "PRICE_FEED_ORACLE"
+  },
+  {
+    "addr": "0x08E4E33Db8F434f9b443CCada09E255a6F3CEaC4",
+    "chainId": 133,
+    "isContract": true,
+    "name": "USDT"
+  },
+  {
+    "addr": "0x54edb22a897AB46C5A011a5b87650FAE546FA881",
+    "chainId": 133,
+    "isContract": true,
+    "name": "hUSDT"
+  },
+  {
+    "addr": "0x21556D99AB4584047905D74f60267b0f2D3dD9A3",
+    "chainId": 133,
+    "isContract": true,
+    "name": "JUMP_RATE_IRM_USDT"
+  },
+  {
+    "addr": "0x22df3ffffECa90d5d44b9d10Bb5C32C7ff16A954",
+    "chainId": 133,
+    "isContract": true,
+    "name": "USDC"
+  },
+  {
+    "addr": "0xF0975612DA3C44048189012DD14bf1153C2d6A03",
+    "chainId": 133,
+    "isContract": true,
+    "name": "hUSDC"
+  },
+  {
+    "addr": "0x01B3Af1F5a5a633702311197C5cC3114aC640b64",
+    "chainId": 133,
+    "isContract": true,
+    "name": "JUMP_RATE_IRM_USDC"
+  },
+  {
+    "addr": "0x76AD3Bb3d0F8DFDd024bA90e0474EbDfbED9E041",
+    "chainId": 133,
+    "isContract": true,
+    "name": "WHSK"
+  },
+  {
+    "addr": "0xd26c01Ea0AA52B24Ca7980e798A7313EDDf6bdd7",
+    "chainId": 133,
+    "isContract": true,
+    "name": "hWHSK"
+  },
+  {
+    "addr": "0x3d5a205A93EbA8B5d28d937d1cD3ab16317003eB",
+    "chainId": 133,
+    "isContract": true,
+    "name": "JUMP_RATE_IRM_WHSK"
+  }
+]

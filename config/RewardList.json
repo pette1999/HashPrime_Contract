@@ -1,0 +1,83 @@
+[
+  {
+    "supplyEmissionPerSec": 0,
+    "borrowEmissionsPerSec": 1,
+    "endTime": "1696629600",
+    "emissionToken": "0xFF8adeC2221f9f4D8dfbAFa6B9a297d17603493D",
+    "hToken": "rUSDC",
+    "owner": "EMISSIONS_ADMIN",
+    "symbol": "USDC"
+  },
+  {
+    "supplyEmissionPerSec": 0,
+    "borrowEmissionsPerSec": 1,
+    "endTime": "1696629600",
+    "emissionToken": "0xFF8adeC2221f9f4D8dfbAFa6B9a297d17603493D",
+    "hToken": "rUSDT",
+    "symbol": "USDT",
+    "owner": "EMISSIONS_ADMIN"
+  },
+  {
+    "supplyEmissionPerSec": 0,
+    "borrowEmissionsPerSec": 1,
+    "endTime": "1696629600",
+    "emissionToken": "0xFF8adeC2221f9f4D8dfbAFa6B9a297d17603493D",
+    "hToken": "rFDUSD",
+    "owner": "EMISSIONS_ADMIN",
+    "symbol": "FDUSD"
+  },
+  {
+    "supplyEmissionPerSec": 0,
+    "borrowEmissionsPerSec": 1,
+    "endTime": "1696629600",
+    "emissionToken": "0xFF8adeC2221f9f4D8dfbAFa6B9a297d17603493D",
+    "hToken": "rWETH",
+    "owner": "EMISSIONS_ADMIN",
+    "symbol": "WETH"
+  },
+  {
+    "supplyEmissionPerSec": 0,
+    "borrowEmissionsPerSec": 1,
+    "endTime": "1694210400",
+    "emissionToken": "0xFF8adeC2221f9f4D8dfbAFa6B9a297d17603493D",
+    "hToken": "rWBTC",
+    "owner": "EMISSIONS_ADMIN",
+    "symbol": "WBTC"
+  },
+  {
+    "borrowEmissionsPerSec": 1,
+    "supplyEmissionPerSec": 0,
+    "endTime": "1694210400",
+    "emissionToken": "0xFF8adeC2221f9f4D8dfbAFa6B9a297d17603493D",
+    "hToken": "rcbETH",
+    "owner": "EMISSIONS_ADMIN",
+    "symbol": "cbETH"
+  },
+  {
+    "supplyEmissionPerSec": 0,
+    "borrowEmissionsPerSec": 1,
+    "endTime": "1696629600",
+    "emissionToken": "0xFF8adeC2221f9f4D8dfbAFa6B9a297d17603493D",
+    "hToken": "rEZETH",
+    "owner": "EMISSIONS_ADMIN",
+    "symbol": "EZETH"
+  },
+  {
+    "supplyEmissionPerSec": 0,
+    "borrowEmissionsPerSec": 1,
+    "endTime": "1694210400",
+    "emissionToken": "0xFF8adeC2221f9f4D8dfbAFa6B9a297d17603493D",
+    "hToken": "rPUFETH",
+    "owner": "EMISSIONS_ADMIN",
+    "symbol": "PUFETH"
+  },
+  {
+    "supplyEmissionPerSec": 0,
+    "borrowEmissionsPerSec": 1,
+    "endTime": "1694210400",
+    "emissionToken": "0xFF8adeC2221f9f4D8dfbAFa6B9a297d17603493D",
+    "hToken": "rSOLVBTC",
+    "owner": "EMISSIONS_ADMIN",
+    "symbol": "SOLVBTC"
+  }
+]

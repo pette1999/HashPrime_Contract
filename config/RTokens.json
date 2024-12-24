@@ -1,0 +1,191 @@
+[
+  {
+    "decimal": "18",
+    "price": 5000e18,
+    "initialMintAmount": 10000e18,
+    "collateralFactor": 0.8e18,
+    "reserveFactor": 0.15e18,
+    "seizeShare": 0.03e18,
+    "supplyCap": 5000000e18,
+    "borrowCap": 500000e18,
+    "priceFeedName": "USDC_ORACLE",
+    "tokenAddressName": "USDC",
+    "name": "HashPrime USDC",
+    "symbol": "rUSDC",
+    "addressesString": "USDC",
+    "jrm": {
+      "baseRatePerYear": 0,
+      "multiplierPerYear": 0.05e18,
+      "jumpMultiplierPerYear": 2.5e18,
+      "kink": 0.8e18
+    }
+  },
+  {
+    "decimal": "18",
+    "price": 5000e18,
+    "initialMintAmount": 10000e18,
+    "collateralFactor": 0.73e18,
+    "reserveFactor": 0.25e18,
+    "seizeShare": 0.03e18,
+    "supplyCap": 5000000e18,
+    "borrowCap": 500000e18,
+    "priceFeedName": "USDT_ORACLE",
+    "tokenAddressName": "USDT",
+    "name": "HashPrime USDT",
+    "symbol": "rUSDT",
+    "addressesString": "USDT",
+    "jrm": {
+      "baseRatePerYear": 0.01e18,
+      "multiplierPerYear": 0.2e18,
+      "jumpMultiplierPerYear": 3e18,
+      "kink": 0.45e18
+    }
+  },
+  {
+    "decimal": "18",
+    "price": 5000e18,
+    "initialMintAmount": 10000e18,
+    "collateralFactor": 0.73e18,
+    "reserveFactor": 0.25e18,
+    "seizeShare": 0.03e18,
+    "supplyCap": 5000000e18,
+    "borrowCap": 500000e18,
+    "priceFeedName": "FDUSD_ORACLE",
+    "tokenAddressName": "FDUSD",
+    "name": "HashPrime FDUSD",
+    "symbol": "rFDUSD",
+    "addressesString": "FDUSD",
+    "jrm": {
+      "baseRatePerYear": 0.01e18,
+      "multiplierPerYear": 0.2e18,
+      "jumpMultiplierPerYear": 3e18,
+      "kink": 0.45e18
+    }
+  },
+  {
+    "decimal": "18",
+    "price": 5000e18,
+    "initialMintAmount": 10000e18,
+    "collateralFactor": 0.75e18,
+    "reserveFactor": 0.25e18,
+    "seizeShare": 0.03e18,
+    "supplyCap": 5000000e18,
+    "borrowCap": 500000e18,
+    "priceFeedName": "ETH_ORACLE",
+    "tokenAddressName": "WETH",
+    "name": "HashPrime WETH",
+    "symbol": "rWETH",
+    "addressesString": "WETH",
+    "jrm": {
+      "baseRatePerYear": 0.02e18,
+      "multiplierPerYear": 0.15e18,
+      "jumpMultiplierPerYear": 3e18,
+      "kink": 0.6e18
+    }
+  },
+  {
+    "decimal": "18",
+    "price": 5000e18,
+    "initialMintAmount": 10000e18,
+    "collateralFactor": 0.73e18,
+    "reserveFactor": 0.25e18,
+    "seizeShare": 0.03e18,
+    "supplyCap": 5000000e18,
+    "borrowCap": 500000e18,
+    "priceFeedName": "cbETH_ORACLE",
+    "tokenAddressName": "cbETH",
+    "name": "HashPrime cbETH",
+    "symbol": "rcbETH",
+    "addressesString": "cbETH",
+    "jrm": {
+      "baseRatePerYear": 0.01e18,
+      "multiplierPerYear": 0.2e18,
+      "jumpMultiplierPerYear": 3e18,
+      "kink": 0.45e18
+    }
+  },
+  {
+    "decimal": "18",
+    "price": 5000e18,
+    "initialMintAmount": 10000e18,
+    "collateralFactor": 0.73e18,
+    "reserveFactor": 0.25e18,
+    "seizeShare": 0.03e18,
+    "supplyCap": 5000000e18,
+    "borrowCap": 500000e18,
+    "priceFeedName": "WBTC_ORACLE",
+    "tokenAddressName": "WBTC",
+    "name": "HashPrime WBTC",
+    "symbol": "rWBTC",
+    "addressesString": "WBTC",
+    "jrm": {
+      "baseRatePerYear": 0.01e18,
+      "multiplierPerYear": 0.2e18,
+      "jumpMultiplierPerYear": 3e18,
+      "kink": 0.45e18
+    }
+  },
+  {
+    "decimal": "18",
+    "price": 5000e18,
+    "initialMintAmount": 10000e18,
+    "collateralFactor": 0.73e18,
+    "reserveFactor": 0.25e18,
+    "seizeShare": 0.03e18,
+    "supplyCap": 5000000e18,
+    "borrowCap": 500000e18,
+    "priceFeedName": "EZETH_ORACLE",
+    "tokenAddressName": "EZETH",
+    "name": "HashPrime EZETH",
+    "symbol": "rEZETH",
+    "addressesString": "EZETH",
+    "jrm": {
+      "baseRatePerYear": 0.01e18,
+      "multiplierPerYear": 0.2e18,
+      "jumpMultiplierPerYear": 3e18,
+      "kink": 0.45e18
+    }
+  },
+  {
+    "decimal": "18",
+    "price": 5000e18,
+    "initialMintAmount": 10000e18,
+    "collateralFactor": 0.73e18,
+    "reserveFactor": 0.25e18,
+    "seizeShare": 0.03e18,
+    "supplyCap": 5000000e18,
+    "borrowCap": 500000e18,
+    "priceFeedName": "PUFETH_ORACLE",
+    "tokenAddressName": "PUFETH",
+    "name": "HashPrime pufETH",
+    "symbol": "rPUFETH",
+    "addressesString": "PUFETH",
+    "jrm": {
+      "baseRatePerYear": 0.01e18,
+      "multiplierPerYear": 0.2e18,
+      "jumpMultiplierPerYear": 3e18,
+      "kink": 0.45e18
+    }
+  },
+  {
+    "decimal": "18",
+    "price": 5000e18,
+    "initialMintAmount": 10000e18,
+    "collateralFactor": 0.73e18,
+    "reserveFactor": 0.25e18,
+    "seizeShare": 0.03e18,
+    "supplyCap": 5000000e18,
+    "borrowCap": 500000e18,
+    "priceFeedName": "SOLVBTC_ORACLE",
+    "tokenAddressName": "SOLVBTC",
+    "name": "HashPrime SOLVBTC",
+    "symbol": "rSOLVBTC",
+    "addressesString": "SOLVBTC",
+    "jrm": {
+      "baseRatePerYear": 0.01e18,
+      "multiplierPerYear": 0.2e18,
+      "jumpMultiplierPerYear": 3e18,
+      "kink": 0.45e18
+    }
+  }
+]

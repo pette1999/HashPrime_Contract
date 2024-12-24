@@ -1,0 +1,21 @@
+[profile.default]
+out = "out"
+src = "src"
+test = 'test'
+libs = ["lib"]
+solc-version = "0.8.23"
+via_ir = true
+optimizer = true
+optimizerSteps = ''
+fs_permissions = [{ access = "read-write", path = "./" }]
+
+[rpc_endpoints]
+default = "${HASHKEY_RPC}"
+# Mainnet
+hashkey = "${HASHKEY_RPC}"
+# Testnet
+hashkey-test = "${HASHKEY_TEST_RPC}"
+
+[profile.blockscout]
+hashkey-testnet = { url = "${HASHKEY_TESTNET_API_URL}" }
+hashkey = { url = "${HASHKEY_API_URL}" }
